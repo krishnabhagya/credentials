@@ -1,0 +1,11 @@
+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
+
+
+git remote add origin https://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@github.com/krishnabhagya/vedios.git
+
+
+
+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
+
+
+git remote add origin https://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@github.com/krishnabhagya/folder.git
